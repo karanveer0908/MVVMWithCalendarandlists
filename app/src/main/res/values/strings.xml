@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EcobeeTestproject</string>
+    <string name="addtasks">Add Tasks</string>
+    <string name="taptoselectdate">Tap To Select Date</string>
+    <string name="enterdescrip">Enter Description</string>
+    <string name="entertitle">Enter Title</string>
+    <string name="submit">SUBMIT</string>
+    <string name="update">UPDATE</string>
+    <string name="tasklistscreen">Task List Screen</string>
+    <string name="taskdetailscreen">Task Detail Screen</string>
+    <string name="error_all_detail">Please Fill All Details</string>
+    <string name="task_updated_successfully">Task updated successfully</string>
+    <string name="task_added_successfully">Task added successfully</string>
+</resources>
